@@ -1,4 +1,4 @@
-###################################################################################################
+###########################################################################################################
 It is a form designed by using PHP, MySQL, HTML, CSS, JAVASCRIPT. It has backend functionality also
 as expected. 
 When a new user visits the page then he can create account(sign in) and then after successfull comp
