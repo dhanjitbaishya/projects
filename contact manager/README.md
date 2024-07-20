@@ -10,4 +10,5 @@ Screenshot showing the sample use of the script:
 
 ![CONM2](https://github.com/user-attachments/assets/a206cd94-18e7-4303-a544-e2284eeb5a77)
 
-
+DON'T FORGET TO INSTALL PYMONGO
+use this command on windows -> pip install pymongo
